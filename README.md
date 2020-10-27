@@ -1,3 +1,5 @@
+[![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Eduardo-3333ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-erd/)](https://www.linkedin.com/in/paulo-erd/) 
+
 ### Hi there! 👋
 My name is Paulo Eduardo, I'm Software Engineer, guitar, rock and roll lover! 🤘 🎸
 
