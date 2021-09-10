@@ -13,3 +13,9 @@ Meu nome é Paulo Eduardo, atualmente trabalho como Engenheiro de Software Sêni
 No tempo livre gosto de tocar guitarra, dirigir ouvindo minha playlist e amo um rock and roll! 🤘 🎸
 
 Aqui estará alguns estudos meus em tecnologias que quero aprimorar meus conhecimentos. Então bora codar!
+
+<div>
+  <a href="https://github.com/pauloedwardo">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pauloedwardo&show_icons=true&include_all_commits=true&count_private=true&title_color=4078c0&icon_color=4078c0&text_color=9f9f9f&bg_color=151515"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloedwardo&layout=compact&langs_count=10&title_color=4078c0&icon_color=4078c0&text_color=9f9f9f&bg_color=151515"/>
+</div>
